@@ -165,7 +165,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 
 <h2 id="social-sci">⚖️ Social Sciences</h2>
 
-**:** Education, Economics, Psychology, and Sociology.
+**Scope:** Education, Economics, Psychology, and Sociology.
 
 ### Tier 1: Academic Databases & Think Tanks
 
