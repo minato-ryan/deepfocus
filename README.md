@@ -72,6 +72,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 ---
 
 <h2 id="cs-ai">💻 Computer Science & AI</h2>
+
 **Scope:** Artificial Intelligence, Software Engineering, Theory, and Hardware.
 
 ### Tier 1: Peer-Reviewed Conferences & Journals
@@ -109,6 +110,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 ---
 
 <h2 id="medicine">🧬 Medicine & Pharmacology</h2>
+
 **Scope:** Clinical trials, evidence-based medicine, and drug safety.
 
 ### Tier 1: Clinical Gold Standard (Peer-Reviewed)
@@ -140,6 +142,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 ---
 
 <h2 id="physics">⚛️ Physics & Astronomy</h2>
+
 **Scope:** Astrophysics, High-energy physics, and Nuclear research.
 
 | Organization | Domain | Focus |
@@ -161,7 +164,8 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 ---
 
 <h2 id="social-sci">⚖️ Social Sciences</h2>
-**Scope:** Education, Economics, Psychology, and Sociology.
+
+**:** Education, Economics, Psychology, and Sociology.
 
 ### Tier 1: Academic Databases & Think Tanks
 
