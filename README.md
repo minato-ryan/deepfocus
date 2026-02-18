@@ -34,15 +34,15 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 ### Tier 1: Top Peer-Reviewed Publishers (Highest Credibility)
 *The world's largest repositories of peer-reviewed journal articles. Abstracts are free.*
 
-| Platform | Domain | Type | Reputation |
-| :--- | :--- | :--- | :--- |
-| **ScienceDirect** | `sciencedirect.com` | Elsevier (Bio/Med/Phys/Eng) | ⭐⭐⭐⭐⭐ |
-| **Wiley Online** | `onlinelibrary.wiley.com` | Multidisciplinary | ⭐⭐⭐⭐⭐ |
-| **SpringerLink** | `link.springer.com` | Multidisciplinary | ⭐⭐⭐⭐⭐ |
-| **Oxford Academic** | `academic.oup.com` | University Press | ⭐⭐⭐⭐⭐ |
-| **JSTOR** | `jstor.org` | Humanities/Social Sci | ⭐⭐⭐⭐⭐ |
-| **Sage Journals** | `journals.sagepub.com` | Social/Health/Bio | ⭐⭐⭐⭐⭐ |
-| **Taylor & Francis** | `tandfonline.com` | Multidisciplinary | ⭐⭐⭐⭐⭐ |
+| Platform | Domain | Type |
+| :--- | :--- | :--- |
+| **ScienceDirect** | `sciencedirect.com` | Elsevier (Bio/Med/Phys/Eng) |
+| **Wiley Online** | `onlinelibrary.wiley.com` | Multidisciplinary |
+| **SpringerLink** | `link.springer.com` | Multidisciplinary |
+| **Oxford Academic** | `academic.oup.com` | University Press |
+| **JSTOR** | `jstor.org` | Humanities/Social Sci |
+| **Sage Journals** | `journals.sagepub.com` | Social/Health/Bio |
+| **Taylor & Francis** | `tandfonline.com` | Multidisciplinary |
 
 #### 📋 Copy Filter
 ```text
@@ -54,19 +54,23 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 
 *High utility for open access content, but mix of peer-reviewed and preprint.*
 
-| Platform | Domain | Type | Access |
-| --- | --- | --- | --- |
-| **PubMed / PMC** | `ncbi.nlm.nih.gov` | Bio/Med Archive (NIH) | Open Access |
-| **Semantic Scholar** | `semanticscholar.org` | AI Research Aggregator | Open Access |
+| Platform | Domain | Type |
+| :--- | :--- | :--- |
+| **arXiv** | `arxiv.org` | Physics, Math, CS |
+| **PubMed / PMC** | `ncbi.nlm.nih.gov` | Bio/Med Archive (NIH) |
+| **ChemRxiv** | `chemrxiv.org` | Chemistry Preprints |
+| **BioRxiv** | `biorxiv.org` | Biology Preprints |
+| **PsyArXiv** | `psyarxiv.org` | Psychology Preprints |
+| **Research Square** | `researchsquare.com` | Multidisciplinary |
 | **ResearchGate** | `researchgate.net` | Researcher Social Network | Mixed |
+| **Semantic Scholar** | `semanticscholar.org` | AI Research Aggregator |
 | **J-STAGE** | `jstage.jst.go.jp` | Japan Science & Tech | Open Access |
 | **CORE** | `core.ac.uk` | Open Access Aggregator | Open Access |
 
 #### 📋 Copy Filter
 
 ```text
-(site:ncbi.nlm.nih.gov OR site:semanticscholar.org OR site:researchgate.net OR site:jstage.jst.go.jp OR site:core.ac.uk)
-
+(site:arxiv.org OR site:ncbi.nlm.nih.gov OR site:semanticscholar.org OR site:chemrxiv.org OR site:biorxiv.org OR site:psyarxiv.org OR site:researchsquare.com OR site:osf.io OR site:researchgate.net OR site:jstage.jst.go.jp OR site:core.ac.uk)
 ```
 
 ---
