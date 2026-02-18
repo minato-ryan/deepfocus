@@ -53,7 +53,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 #### 📋 Copy Filter
 
 ```text
-(site:sciencedirect.com OR site:onlinelibrary.wiley.com OR site:link.springer.com OR site:academic.oup.com OR site:cambridge.org/core OR site:jstor.org OR site:journals.sagepub.com OR site:tandfonline.com OR site:nature.com OR site:science.org OR site:ieeexplore.ieee.org)
+(site:sciencedirect.com OR site:onlinelibrary.wiley.com OR site:link.springer.com OR site:academic.oup.com OR site:cambridge.org/core OR site:jstor.org OR site:journals.sagepub.com OR site:tandfonline.com OR site:nature.com OR site:science.org OR site:pnas.org OR site:ieeexplore.ieee.org)
 ```
 
 ### Tier 2: Open Repositories & Aggregators
@@ -81,7 +81,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 #### 📋 Copy Filter
 
 ```text
-(site:arxiv.org OR site:ncbi.nlm.nih.gov OR site:semanticscholar.org OR site:chemrxiv.org OR site:biorxiv.org OR site:psyarxiv.org OR site:researchsquare.com OR site:osf.io OR site:researchgate.net OR site:jstage.jst.go.jp OR site:core.ac.uk OR site:hal.science OR site:mdpi.com OR site:plos.org OR site:frontiersin.org)
+(site:arxiv.org OR site:ncbi.nlm.nih.gov OR site:semanticscholar.org OR site:chemrxiv.org OR site:biorxiv.org OR site:psyarxiv.org OR site:researchsquare.com OR site:osf.io OR site:researchgate.net OR site:jstage.jst.go.jp OR site:core.ac.uk OR site:hal.science OR site:mdpi.com OR site:plos.org OR site:frontiersin.org OR site:doaj.org)
 ```
 
 ---
@@ -149,7 +149,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 #### 📋 Copy Filter
 
 ```text
-(site:openreview.net OR site:openaccess.thecvf.com OR site:arxiv.org OR site:dl.acm.org OR site:ieeexplore.ieee.org OR site:aclweb.org OR site:neurips.cc OR site:icml.cc OR site:aaai.org OR site:ijcai.org OR site:usenix.org OR site:openai.com OR site:anthropic.com OR site:deepmind.google OR site:ai.meta.com OR site:microsoft.com OR site:mistral.ai OR site:research.nvidia.com OR site:huggingface.co OR site:lilianweng.github.io OR site:distill.pub OR site:unesco.org OR site:unidir.org)
+(site:openreview.net OR site:openaccess.thecvf.com OR site:arxiv.org OR site:dl.acm.org OR site:ieeexplore.ieee.org OR site:aclweb.org OR site:neurips.cc OR site:icml.cc OR site:aaai.org OR site:ijcai.org OR site:usenix.org OR site:openai.com OR site:anthropic.com OR site:deepmind.google OR site:ai.meta.com OR site:microsoft.com OR site:mistral.ai OR site:research.nvidia.com OR site:huggingface.co OR site:lilianweng.github.io OR site:distill.pub OR site:unesco.org OR site:unidir.org OR site:databricks.com OR site:leanprover-community.github.io OR site:robohub.org OR site:ruder.io OR site:timdettmers.com)
 ```
 
 ---
@@ -179,7 +179,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 | **EMA (EU)** | `ema.europa.eu` | EU Drug Approval |
 | **medRxiv** | `medrxiv.org` | Medical Preprints |
 
-### Tier 3: Specialized Pharmacology & Guidelines
+### Tier 2: Specialized Pharmacology & Guidelines
 
 | Source | Domain | Focus |
 | --- | --- | --- |
@@ -216,7 +216,7 @@ transformer architecture mechanisms (site:arxiv.org OR site:ieeexplore.ieee.org 
 #### 📋 Copy Filter
 
 ```text
-(site:ui.adsabs.harvard.edu OR site:arxiv.org OR site:home.cern OR site:journals.aps.org OR site:iop.org OR site:nature.com OR site:inspirehep.net OR site:pubs.aip.org OR site:sciencedirect.com)
+(site:ui.adsabs.harvard.edu OR site:arxiv.org OR site:home.cern OR site:journals.aps.org OR site:iop.org OR site:nature.com OR site:inspirehep.net OR site:pubs.aip.org OR site:sciencedirect.com OR site:stsci.edu OR site:phys.org)
 ```
 
 ---
